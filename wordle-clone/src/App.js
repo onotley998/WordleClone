@@ -8,6 +8,10 @@ function App() {
       <header className="App-header">
         <h1> Wordle Clone </h1>
         <h3> You have 5 guesses left</h3>
+        <h3> You have 5 guesses left</h3>
+        <h3> You have 5 guesses left</h3>
+        <h3> You have 5 guesses left</h3>
+        <h3> You have 5 guesses left</h3>
       </header>
       <InputBox />
     </div>
